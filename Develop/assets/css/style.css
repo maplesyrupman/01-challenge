@@ -17,7 +17,9 @@ p {
     font-size: 16px;
 }
 
-/* --- helper classes --- */
+
+
+/* --- start of utility classes --- */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -27,8 +29,11 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* end of utility classes */
 
-/* --- header styles --- */
+
+
+/* --- start of header styles --- */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -61,8 +66,11 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
+/* end of header styles */
 
-/* --- hero styles --- */
+
+
+/* --- start of hero styles --- */
 .hero {
     height: 800px;
     width: 100%;
@@ -71,15 +79,21 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* end of hero classes */
 
-/* --- content styles --- */
+
+
+/* --- start of content styles --- */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/* end of content styles */
 
-/* --- benefits styles --- */
+
+
+/* --- start of benefits styles --- */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,8 +120,11 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end of benefit styles */
 
-/* --- search-engine-optimization styles --- */
+
+
+/* --- start of search-engine-optimization styles --- */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -125,6 +142,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end of search-engine-optimization styles */
+
+
 
 /* --- online-reputation-management styles --- */
 .online-reputation-management {
@@ -144,8 +164,11 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end of search-engine-optimization styles */
 
-/* --- social-media-marketing styles --- */
+
+
+/* --- start of social-media-marketing styles --- */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -163,8 +186,11 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end of social-media-marketing styles */
 
-/*--- footer styles ---*/
+
+
+/*--- start of footer styles ---*/
 .footer {
     padding: 30px;
     clear: both;
@@ -175,3 +201,4 @@ p {
 .footer h3 {
     font-size: 20px;
 }
+/* end of footer styles */
