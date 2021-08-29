@@ -3,5 +3,5 @@ This is a landing page for Horiseon Social Solution Services which provides a br
 application link: https://maplesyrupman.github.io/01-challenge/
 github repository link: https://github.com/maplesyrupman/01-challenge
 
-!['image of application'](./'screenshot1.png')
-!['image of application'](./'screenshot2.png')
+!['image of application'](./screenshot1.png)
+!['image of application'](./screenshot2.png)
